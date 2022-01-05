@@ -77,6 +77,7 @@ namespace BankingCard_Processer
             this.textBox7 = new System.Windows.Forms.TextBox();
             this.txtProvider = new System.Windows.Forms.TextBox();
             this.lbProvider = new System.Windows.Forms.Label();
+            this.label8 = new System.Windows.Forms.Label();
             ((System.ComponentModel.ISupportInitialize)(this.dataGridView)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.dataGridView1)).BeginInit();
             this.SuspendLayout();
@@ -104,17 +105,17 @@ namespace BankingCard_Processer
             this.tbxBalance.Location = new System.Drawing.Point(269, 52);
             this.tbxBalance.Name = "tbxBalance";
             this.tbxBalance.ReadOnly = true;
-            this.tbxBalance.Size = new System.Drawing.Size(272, 32);
+            this.tbxBalance.Size = new System.Drawing.Size(272, 22);
             this.tbxBalance.TabIndex = 26;
             this.tbxBalance.Text = "0.00";
             // 
             // label1
             // 
             this.label1.AutoSize = true;
-            this.label1.ForeColor = System.Drawing.Color.White;
+            this.label1.ForeColor = System.Drawing.Color.DarkBlue;
             this.label1.Location = new System.Drawing.Point(46, 49);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(199, 32);
+            this.label1.Size = new System.Drawing.Size(130, 21);
             this.label1.TabIndex = 25;
             this.label1.Text = "Available Balance";
             // 
@@ -123,7 +124,7 @@ namespace BankingCard_Processer
             this.tbxCustomerID.Location = new System.Drawing.Point(269, 92);
             this.tbxCustomerID.Name = "tbxCustomerID";
             this.tbxCustomerID.ReadOnly = true;
-            this.tbxCustomerID.Size = new System.Drawing.Size(196, 39);
+            this.tbxCustomerID.Size = new System.Drawing.Size(196, 29);
             this.tbxCustomerID.TabIndex = 39;
             // 
             // btnConfirm
@@ -145,20 +146,20 @@ namespace BankingCard_Processer
             // label3
             // 
             this.label3.AutoSize = true;
-            this.label3.ForeColor = System.Drawing.Color.White;
+            this.label3.ForeColor = System.Drawing.Color.DarkBlue;
             this.label3.Location = new System.Drawing.Point(46, 375);
             this.label3.Name = "label3";
-            this.label3.Size = new System.Drawing.Size(100, 32);
+            this.label3.Size = new System.Drawing.Size(66, 21);
             this.label3.TabIndex = 35;
             this.label3.Text = "Amount";
             // 
             // label2
             // 
             this.label2.AutoSize = true;
-            this.label2.ForeColor = System.Drawing.Color.White;
+            this.label2.ForeColor = System.Drawing.Color.DarkBlue;
             this.label2.Location = new System.Drawing.Point(46, 95);
             this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(147, 32);
+            this.label2.Size = new System.Drawing.Size(97, 21);
             this.label2.TabIndex = 27;
             this.label2.Text = "Customer ID";
             // 
@@ -169,7 +170,7 @@ namespace BankingCard_Processer
             this.label4.ForeColor = System.Drawing.Color.Gainsboro;
             this.label4.Location = new System.Drawing.Point(12, 9);
             this.label4.Name = "label4";
-            this.label4.Size = new System.Drawing.Size(262, 28);
+            this.label4.Size = new System.Drawing.Size(185, 19);
             this.label4.TabIndex = 43;
             this.label4.Text = "Service Payment Information";
             // 
@@ -181,7 +182,7 @@ namespace BankingCard_Processer
             this.btnElectricity.ForeColor = System.Drawing.Color.White;
             this.btnElectricity.Location = new System.Drawing.Point(46, 150);
             this.btnElectricity.Name = "btnElectricity";
-            this.btnElectricity.Size = new System.Drawing.Size(271, 129);
+            this.btnElectricity.Size = new System.Drawing.Size(200, 100);
             this.btnElectricity.TabIndex = 44;
             this.btnElectricity.Text = "Electricity bill";
             this.btnElectricity.UseVisualStyleBackColor = false;
@@ -193,9 +194,9 @@ namespace BankingCard_Processer
             this.btnWater.FlatAppearance.BorderSize = 0;
             this.btnWater.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.btnWater.ForeColor = System.Drawing.Color.White;
-            this.btnWater.Location = new System.Drawing.Point(386, 150);
+            this.btnWater.Location = new System.Drawing.Point(310, 150);
             this.btnWater.Name = "btnWater";
-            this.btnWater.Size = new System.Drawing.Size(271, 129);
+            this.btnWater.Size = new System.Drawing.Size(200, 100);
             this.btnWater.TabIndex = 45;
             this.btnWater.Text = "Water bill";
             this.btnWater.UseVisualStyleBackColor = false;
@@ -207,9 +208,9 @@ namespace BankingCard_Processer
             this.btnInternet.FlatAppearance.BorderSize = 0;
             this.btnInternet.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.btnInternet.ForeColor = System.Drawing.Color.White;
-            this.btnInternet.Location = new System.Drawing.Point(728, 150);
+            this.btnInternet.Location = new System.Drawing.Point(577, 150);
             this.btnInternet.Name = "btnInternet";
-            this.btnInternet.Size = new System.Drawing.Size(271, 129);
+            this.btnInternet.Size = new System.Drawing.Size(200, 100);
             this.btnInternet.TabIndex = 46;
             this.btnInternet.Text = "Internet bill";
             this.btnInternet.UseVisualStyleBackColor = false;
@@ -221,27 +222,27 @@ namespace BankingCard_Processer
             this.tbxConfirm.Location = new System.Drawing.Point(226, 602);
             this.tbxConfirm.Name = "tbxConfirm";
             this.tbxConfirm.PasswordChar = '*';
-            this.tbxConfirm.Size = new System.Drawing.Size(170, 39);
+            this.tbxConfirm.Size = new System.Drawing.Size(170, 29);
             this.tbxConfirm.TabIndex = 49;
             // 
             // label6
             // 
             this.label6.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Left)));
             this.label6.AutoSize = true;
-            this.label6.ForeColor = System.Drawing.Color.White;
+            this.label6.ForeColor = System.Drawing.Color.DarkGreen;
             this.label6.Location = new System.Drawing.Point(46, 602);
             this.label6.Name = "label6";
-            this.label6.Size = new System.Drawing.Size(144, 32);
+            this.label6.Size = new System.Drawing.Size(96, 21);
             this.label6.TabIndex = 47;
             this.label6.Text = "Confirm PIN";
             // 
             // label5
             // 
             this.label5.AutoSize = true;
-            this.label5.ForeColor = System.Drawing.Color.White;
+            this.label5.ForeColor = System.Drawing.Color.DarkBlue;
             this.label5.Location = new System.Drawing.Point(46, 316);
             this.label5.Name = "label5";
-            this.label5.Size = new System.Drawing.Size(102, 32);
+            this.label5.Size = new System.Drawing.Size(69, 21);
             this.label5.TabIndex = 50;
             this.label5.Text = "Provider";
             // 
@@ -251,7 +252,7 @@ namespace BankingCard_Processer
             this.cboKhuVuc.FormattingEnabled = true;
             this.cboKhuVuc.Location = new System.Drawing.Point(192, 308);
             this.cboKhuVuc.Name = "cboKhuVuc";
-            this.cboKhuVuc.Size = new System.Drawing.Size(318, 40);
+            this.cboKhuVuc.Size = new System.Drawing.Size(318, 29);
             this.cboKhuVuc.TabIndex = 52;
             this.cboKhuVuc.SelectedIndexChanged += new System.EventHandler(this.cboKhuVuc_SelectedIndexChanged);
             // 
@@ -263,7 +264,7 @@ namespace BankingCard_Processer
             this.tbxAmount.Location = new System.Drawing.Point(192, 375);
             this.tbxAmount.Name = "tbxAmount";
             this.tbxAmount.ReadOnly = true;
-            this.tbxAmount.Size = new System.Drawing.Size(209, 32);
+            this.tbxAmount.Size = new System.Drawing.Size(209, 22);
             this.tbxAmount.TabIndex = 53;
             this.tbxAmount.Text = "0.00";
             // 
@@ -339,10 +340,10 @@ namespace BankingCard_Processer
             // label7
             // 
             this.label7.AutoSize = true;
-            this.label7.ForeColor = System.Drawing.Color.White;
+            this.label7.ForeColor = System.Drawing.Color.DarkBlue;
             this.label7.Location = new System.Drawing.Point(46, 423);
             this.label7.Name = "label7";
-            this.label7.Size = new System.Drawing.Size(78, 32);
+            this.label7.Size = new System.Drawing.Size(52, 21);
             this.label7.TabIndex = 95;
             this.label7.Text = "Status";
             // 
@@ -354,7 +355,7 @@ namespace BankingCard_Processer
             this.tbxStatus.Location = new System.Drawing.Point(192, 423);
             this.tbxStatus.Name = "tbxStatus";
             this.tbxStatus.ReadOnly = true;
-            this.tbxStatus.Size = new System.Drawing.Size(209, 32);
+            this.tbxStatus.Size = new System.Drawing.Size(209, 22);
             this.tbxStatus.TabIndex = 96;
             this.tbxStatus.Text = "Paid";
             // 
@@ -362,11 +363,11 @@ namespace BankingCard_Processer
             // 
             this.textBox6.BackColor = System.Drawing.Color.DarkSeaGreen;
             this.textBox6.BorderStyle = System.Windows.Forms.BorderStyle.None;
-            this.textBox6.ForeColor = System.Drawing.Color.White;
-            this.textBox6.Location = new System.Drawing.Point(733, 308);
+            this.textBox6.ForeColor = System.Drawing.Color.DarkBlue;
+            this.textBox6.Location = new System.Drawing.Point(777, 295);
             this.textBox6.Name = "textBox6";
             this.textBox6.ReadOnly = true;
-            this.textBox6.Size = new System.Drawing.Size(49, 32);
+            this.textBox6.Size = new System.Drawing.Size(49, 22);
             this.textBox6.TabIndex = 133;
             this.textBox6.Text = ":";
             // 
@@ -375,20 +376,20 @@ namespace BankingCard_Processer
             this.txtDate.BackColor = System.Drawing.Color.DarkSeaGreen;
             this.txtDate.BorderStyle = System.Windows.Forms.BorderStyle.None;
             this.txtDate.ForeColor = System.Drawing.Color.White;
-            this.txtDate.Location = new System.Drawing.Point(788, 308);
+            this.txtDate.Location = new System.Drawing.Point(832, 295);
             this.txtDate.Name = "txtDate";
             this.txtDate.ReadOnly = true;
-            this.txtDate.Size = new System.Drawing.Size(264, 32);
+            this.txtDate.Size = new System.Drawing.Size(264, 22);
             this.txtDate.TabIndex = 132;
             this.txtDate.Text = "15/5/2021";
             // 
             // lbDate
             // 
             this.lbDate.AutoSize = true;
-            this.lbDate.ForeColor = System.Drawing.Color.White;
-            this.lbDate.Location = new System.Drawing.Point(579, 308);
+            this.lbDate.ForeColor = System.Drawing.Color.DarkBlue;
+            this.lbDate.Location = new System.Drawing.Point(623, 295);
             this.lbDate.Name = "lbDate";
-            this.lbDate.Size = new System.Drawing.Size(64, 32);
+            this.lbDate.Size = new System.Drawing.Size(42, 21);
             this.lbDate.TabIndex = 131;
             this.lbDate.Text = "Date";
             // 
@@ -396,11 +397,11 @@ namespace BankingCard_Processer
             // 
             this.textBox1.BackColor = System.Drawing.Color.DarkSeaGreen;
             this.textBox1.BorderStyle = System.Windows.Forms.BorderStyle.None;
-            this.textBox1.ForeColor = System.Drawing.Color.White;
-            this.textBox1.Location = new System.Drawing.Point(731, 556);
+            this.textBox1.ForeColor = System.Drawing.Color.DarkBlue;
+            this.textBox1.Location = new System.Drawing.Point(777, 571);
             this.textBox1.Name = "textBox1";
             this.textBox1.ReadOnly = true;
-            this.textBox1.Size = new System.Drawing.Size(49, 32);
+            this.textBox1.Size = new System.Drawing.Size(49, 22);
             this.textBox1.TabIndex = 130;
             this.textBox1.Text = ":";
             // 
@@ -408,11 +409,11 @@ namespace BankingCard_Processer
             // 
             this.textBox5.BackColor = System.Drawing.Color.DarkSeaGreen;
             this.textBox5.BorderStyle = System.Windows.Forms.BorderStyle.None;
-            this.textBox5.ForeColor = System.Drawing.Color.White;
-            this.textBox5.Location = new System.Drawing.Point(731, 524);
+            this.textBox5.ForeColor = System.Drawing.Color.DarkBlue;
+            this.textBox5.Location = new System.Drawing.Point(777, 529);
             this.textBox5.Name = "textBox5";
             this.textBox5.ReadOnly = true;
-            this.textBox5.Size = new System.Drawing.Size(49, 32);
+            this.textBox5.Size = new System.Drawing.Size(49, 22);
             this.textBox5.TabIndex = 129;
             this.textBox5.Text = ":";
             // 
@@ -420,11 +421,11 @@ namespace BankingCard_Processer
             // 
             this.textBox4.BackColor = System.Drawing.Color.DarkSeaGreen;
             this.textBox4.BorderStyle = System.Windows.Forms.BorderStyle.None;
-            this.textBox4.ForeColor = System.Drawing.Color.White;
-            this.textBox4.Location = new System.Drawing.Point(731, 492);
+            this.textBox4.ForeColor = System.Drawing.Color.DarkBlue;
+            this.textBox4.Location = new System.Drawing.Point(777, 488);
             this.textBox4.Name = "textBox4";
             this.textBox4.ReadOnly = true;
-            this.textBox4.Size = new System.Drawing.Size(49, 32);
+            this.textBox4.Size = new System.Drawing.Size(49, 22);
             this.textBox4.TabIndex = 128;
             this.textBox4.Text = ":";
             // 
@@ -432,11 +433,11 @@ namespace BankingCard_Processer
             // 
             this.textBox3.BackColor = System.Drawing.Color.DarkSeaGreen;
             this.textBox3.BorderStyle = System.Windows.Forms.BorderStyle.None;
-            this.textBox3.ForeColor = System.Drawing.Color.White;
-            this.textBox3.Location = new System.Drawing.Point(733, 378);
+            this.textBox3.ForeColor = System.Drawing.Color.DarkBlue;
+            this.textBox3.Location = new System.Drawing.Point(777, 369);
             this.textBox3.Name = "textBox3";
             this.textBox3.ReadOnly = true;
-            this.textBox3.Size = new System.Drawing.Size(49, 32);
+            this.textBox3.Size = new System.Drawing.Size(49, 22);
             this.textBox3.TabIndex = 127;
             this.textBox3.Text = ":";
             // 
@@ -444,21 +445,21 @@ namespace BankingCard_Processer
             // 
             this.textBox2.BackColor = System.Drawing.Color.DarkSeaGreen;
             this.textBox2.BorderStyle = System.Windows.Forms.BorderStyle.None;
-            this.textBox2.ForeColor = System.Drawing.Color.White;
-            this.textBox2.Location = new System.Drawing.Point(733, 343);
+            this.textBox2.ForeColor = System.Drawing.Color.DarkBlue;
+            this.textBox2.Location = new System.Drawing.Point(777, 332);
             this.textBox2.Name = "textBox2";
             this.textBox2.ReadOnly = true;
-            this.textBox2.Size = new System.Drawing.Size(49, 32);
+            this.textBox2.Size = new System.Drawing.Size(49, 22);
             this.textBox2.TabIndex = 126;
             this.textBox2.Text = ":";
             // 
             // lbThanks
             // 
             this.lbThanks.AutoSize = true;
-            this.lbThanks.ForeColor = System.Drawing.Color.White;
-            this.lbThanks.Location = new System.Drawing.Point(629, 596);
+            this.lbThanks.ForeColor = System.Drawing.Color.DarkGreen;
+            this.lbThanks.Location = new System.Drawing.Point(683, 606);
             this.lbThanks.Name = "lbThanks";
-            this.lbThanks.Size = new System.Drawing.Size(200, 32);
+            this.lbThanks.Size = new System.Drawing.Size(132, 21);
             this.lbThanks.TabIndex = 125;
             this.lbThanks.Text = "*** Thank you ***";
             // 
@@ -467,20 +468,20 @@ namespace BankingCard_Processer
             this.txtVAT.BackColor = System.Drawing.Color.DarkSeaGreen;
             this.txtVAT.BorderStyle = System.Windows.Forms.BorderStyle.None;
             this.txtVAT.ForeColor = System.Drawing.Color.White;
-            this.txtVAT.Location = new System.Drawing.Point(786, 556);
+            this.txtVAT.Location = new System.Drawing.Point(832, 571);
             this.txtVAT.Name = "txtVAT";
             this.txtVAT.ReadOnly = true;
-            this.txtVAT.Size = new System.Drawing.Size(264, 32);
+            this.txtVAT.Size = new System.Drawing.Size(264, 22);
             this.txtVAT.TabIndex = 124;
             this.txtVAT.Text = "0.00 VND";
             // 
             // lbVAT
             // 
             this.lbVAT.AutoSize = true;
-            this.lbVAT.ForeColor = System.Drawing.Color.White;
-            this.lbVAT.Location = new System.Drawing.Point(577, 556);
+            this.lbVAT.ForeColor = System.Drawing.Color.DarkBlue;
+            this.lbVAT.Location = new System.Drawing.Point(623, 571);
             this.lbVAT.Name = "lbVAT";
-            this.lbVAT.Size = new System.Drawing.Size(54, 32);
+            this.lbVAT.Size = new System.Drawing.Size(36, 21);
             this.lbVAT.TabIndex = 123;
             this.lbVAT.Text = "VAT";
             // 
@@ -489,20 +490,20 @@ namespace BankingCard_Processer
             this.txtBalance.BackColor = System.Drawing.Color.DarkSeaGreen;
             this.txtBalance.BorderStyle = System.Windows.Forms.BorderStyle.None;
             this.txtBalance.ForeColor = System.Drawing.Color.White;
-            this.txtBalance.Location = new System.Drawing.Point(786, 524);
+            this.txtBalance.Location = new System.Drawing.Point(832, 529);
             this.txtBalance.Name = "txtBalance";
             this.txtBalance.ReadOnly = true;
-            this.txtBalance.Size = new System.Drawing.Size(264, 32);
+            this.txtBalance.Size = new System.Drawing.Size(264, 22);
             this.txtBalance.TabIndex = 122;
             this.txtBalance.Text = "9,000,000";
             // 
             // lbBalance
             // 
             this.lbBalance.AutoSize = true;
-            this.lbBalance.ForeColor = System.Drawing.Color.White;
-            this.lbBalance.Location = new System.Drawing.Point(577, 524);
+            this.lbBalance.ForeColor = System.Drawing.Color.DarkBlue;
+            this.lbBalance.Location = new System.Drawing.Point(623, 529);
             this.lbBalance.Name = "lbBalance";
-            this.lbBalance.Size = new System.Drawing.Size(96, 32);
+            this.lbBalance.Size = new System.Drawing.Size(63, 21);
             this.lbBalance.TabIndex = 121;
             this.lbBalance.Text = "Balance";
             // 
@@ -511,30 +512,30 @@ namespace BankingCard_Processer
             this.txtAmount.BackColor = System.Drawing.Color.DarkSeaGreen;
             this.txtAmount.BorderStyle = System.Windows.Forms.BorderStyle.None;
             this.txtAmount.ForeColor = System.Drawing.Color.White;
-            this.txtAmount.Location = new System.Drawing.Point(786, 492);
+            this.txtAmount.Location = new System.Drawing.Point(832, 488);
             this.txtAmount.Name = "txtAmount";
             this.txtAmount.ReadOnly = true;
-            this.txtAmount.Size = new System.Drawing.Size(264, 32);
+            this.txtAmount.Size = new System.Drawing.Size(264, 22);
             this.txtAmount.TabIndex = 120;
             this.txtAmount.Text = "900,000";
             // 
             // lbAmount
             // 
             this.lbAmount.AutoSize = true;
-            this.lbAmount.ForeColor = System.Drawing.Color.White;
-            this.lbAmount.Location = new System.Drawing.Point(577, 492);
+            this.lbAmount.ForeColor = System.Drawing.Color.DarkBlue;
+            this.lbAmount.Location = new System.Drawing.Point(623, 488);
             this.lbAmount.Name = "lbAmount";
-            this.lbAmount.Size = new System.Drawing.Size(100, 32);
+            this.lbAmount.Size = new System.Drawing.Size(66, 21);
             this.lbAmount.TabIndex = 119;
             this.lbAmount.Text = "Amount";
             // 
             // lbTransaction
             // 
             this.lbTransaction.AutoSize = true;
-            this.lbTransaction.ForeColor = System.Drawing.Color.White;
-            this.lbTransaction.Location = new System.Drawing.Point(658, 423);
+            this.lbTransaction.ForeColor = System.Drawing.Color.RoyalBlue;
+            this.lbTransaction.Location = new System.Drawing.Point(704, 411);
             this.lbTransaction.Name = "lbTransaction";
-            this.lbTransaction.Size = new System.Drawing.Size(134, 32);
+            this.lbTransaction.Size = new System.Drawing.Size(89, 21);
             this.lbTransaction.TabIndex = 118;
             this.lbTransaction.Text = "Transaction";
             // 
@@ -543,20 +544,20 @@ namespace BankingCard_Processer
             this.txtCardHolder.BackColor = System.Drawing.Color.DarkSeaGreen;
             this.txtCardHolder.BorderStyle = System.Windows.Forms.BorderStyle.None;
             this.txtCardHolder.ForeColor = System.Drawing.Color.White;
-            this.txtCardHolder.Location = new System.Drawing.Point(788, 378);
+            this.txtCardHolder.Location = new System.Drawing.Point(832, 369);
             this.txtCardHolder.Name = "txtCardHolder";
             this.txtCardHolder.ReadOnly = true;
-            this.txtCardHolder.Size = new System.Drawing.Size(264, 32);
+            this.txtCardHolder.Size = new System.Drawing.Size(264, 22);
             this.txtCardHolder.TabIndex = 117;
             this.txtCardHolder.Text = "Nguyen Quoc Trung";
             // 
             // lbCardHolder
             // 
             this.lbCardHolder.AutoSize = true;
-            this.lbCardHolder.ForeColor = System.Drawing.Color.White;
-            this.lbCardHolder.Location = new System.Drawing.Point(579, 378);
+            this.lbCardHolder.ForeColor = System.Drawing.Color.DarkBlue;
+            this.lbCardHolder.Location = new System.Drawing.Point(623, 369);
             this.lbCardHolder.Name = "lbCardHolder";
-            this.lbCardHolder.Size = new System.Drawing.Size(142, 32);
+            this.lbCardHolder.Size = new System.Drawing.Size(94, 21);
             this.lbCardHolder.TabIndex = 116;
             this.lbCardHolder.Text = "Card Holder";
             // 
@@ -565,20 +566,20 @@ namespace BankingCard_Processer
             this.txtCardID.BackColor = System.Drawing.Color.DarkSeaGreen;
             this.txtCardID.BorderStyle = System.Windows.Forms.BorderStyle.None;
             this.txtCardID.ForeColor = System.Drawing.Color.White;
-            this.txtCardID.Location = new System.Drawing.Point(788, 343);
+            this.txtCardID.Location = new System.Drawing.Point(832, 332);
             this.txtCardID.Name = "txtCardID";
             this.txtCardID.ReadOnly = true;
-            this.txtCardID.Size = new System.Drawing.Size(264, 32);
+            this.txtCardID.Size = new System.Drawing.Size(264, 22);
             this.txtCardID.TabIndex = 115;
             this.txtCardID.Text = "4815123";
             // 
             // lbCardID
             // 
             this.lbCardID.AutoSize = true;
-            this.lbCardID.ForeColor = System.Drawing.Color.White;
-            this.lbCardID.Location = new System.Drawing.Point(579, 343);
+            this.lbCardID.ForeColor = System.Drawing.Color.DarkBlue;
+            this.lbCardID.Location = new System.Drawing.Point(623, 332);
             this.lbCardID.Name = "lbCardID";
-            this.lbCardID.Size = new System.Drawing.Size(134, 32);
+            this.lbCardID.Size = new System.Drawing.Size(89, 21);
             this.lbCardID.TabIndex = 114;
             this.lbCardID.Text = "Credit Card";
             // 
@@ -586,11 +587,11 @@ namespace BankingCard_Processer
             // 
             this.textBox7.BackColor = System.Drawing.Color.DarkSeaGreen;
             this.textBox7.BorderStyle = System.Windows.Forms.BorderStyle.None;
-            this.textBox7.ForeColor = System.Drawing.Color.White;
-            this.textBox7.Location = new System.Drawing.Point(731, 460);
+            this.textBox7.ForeColor = System.Drawing.Color.DarkBlue;
+            this.textBox7.Location = new System.Drawing.Point(777, 448);
             this.textBox7.Name = "textBox7";
             this.textBox7.ReadOnly = true;
-            this.textBox7.Size = new System.Drawing.Size(49, 32);
+            this.textBox7.Size = new System.Drawing.Size(49, 22);
             this.textBox7.TabIndex = 136;
             this.textBox7.Text = ":";
             // 
@@ -599,29 +600,41 @@ namespace BankingCard_Processer
             this.txtProvider.BackColor = System.Drawing.Color.DarkSeaGreen;
             this.txtProvider.BorderStyle = System.Windows.Forms.BorderStyle.None;
             this.txtProvider.ForeColor = System.Drawing.Color.White;
-            this.txtProvider.Location = new System.Drawing.Point(786, 460);
+            this.txtProvider.Location = new System.Drawing.Point(832, 448);
             this.txtProvider.Name = "txtProvider";
             this.txtProvider.ReadOnly = true;
-            this.txtProvider.Size = new System.Drawing.Size(264, 32);
+            this.txtProvider.Size = new System.Drawing.Size(264, 22);
             this.txtProvider.TabIndex = 135;
             this.txtProvider.Text = "900,000";
             // 
             // lbProvider
             // 
             this.lbProvider.AutoSize = true;
-            this.lbProvider.ForeColor = System.Drawing.Color.White;
-            this.lbProvider.Location = new System.Drawing.Point(577, 460);
+            this.lbProvider.ForeColor = System.Drawing.Color.DarkBlue;
+            this.lbProvider.Location = new System.Drawing.Point(623, 448);
             this.lbProvider.Name = "lbProvider";
-            this.lbProvider.Size = new System.Drawing.Size(102, 32);
+            this.lbProvider.Size = new System.Drawing.Size(69, 21);
             this.lbProvider.TabIndex = 134;
             this.lbProvider.Text = "Provider";
             // 
+            // label8
+            // 
+            this.label8.AutoSize = true;
+            this.label8.Font = new System.Drawing.Font("Segoe UI", 11F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
+            this.label8.ForeColor = System.Drawing.Color.RoyalBlue;
+            this.label8.Location = new System.Drawing.Point(704, 263);
+            this.label8.Name = "label8";
+            this.label8.Size = new System.Drawing.Size(111, 20);
+            this.label8.TabIndex = 137;
+            this.label8.Text = "Invoice Preview";
+            // 
             // formServicePayment
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(13F, 32F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(9F, 21F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.DarkSeaGreen;
             this.ClientSize = new System.Drawing.Size(1097, 732);
+            this.Controls.Add(this.label8);
             this.Controls.Add(this.textBox7);
             this.Controls.Add(this.txtProvider);
             this.Controls.Add(this.lbProvider);
@@ -666,6 +679,7 @@ namespace BankingCard_Processer
             this.Controls.Add(this.label1);
             this.Controls.Add(this.btnClose);
             this.Font = new System.Drawing.Font("Segoe UI", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
+            this.ForeColor = System.Drawing.Color.White;
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None;
             this.Margin = new System.Windows.Forms.Padding(4);
             this.Name = "formServicePayment";
@@ -728,5 +742,6 @@ namespace BankingCard_Processer
         private System.Windows.Forms.DataGridViewTextBoxColumn column_sotien;
         private System.Windows.Forms.DataGridViewTextBoxColumn column_trangThai;
         private System.Windows.Forms.DataGridViewTextBoxColumn column_loai;
+        private System.Windows.Forms.Label label8;
     }
 }

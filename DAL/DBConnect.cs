@@ -9,6 +9,6 @@ namespace DAL
 {
     public class DBConnect
     {
-        protected SqlConnection connection = new SqlConnection(@"Data Source=DESKTOP-U8RR33L\SQLSERVER;Initial Catalog=BankingCardProcessor;Integrated Security=True");
+        protected SqlConnection connection = new SqlConnection(@"Data Source=MOONMACHINE\SQLEXPRESS;Initial Catalog=BankingCardProcessor;Integrated Security=True");
     }
 }

@@ -16,3 +16,12 @@ D:\Docs\Y3S1\OOAD_Phương pháp Phát triển phần mềm hướng đối tư�
 D:\Docs\Y3S1\OOAD_Phương pháp Phát triển phần mềm hướng đối tượng_SE100.M12.PMCL\Project\DAL\obj\Debug\DAL.csproj.CopyComplete
 D:\Docs\Y3S1\OOAD_Phương pháp Phát triển phần mềm hướng đối tượng_SE100.M12.PMCL\Project\DAL\obj\Debug\DAL.dll
 D:\Docs\Y3S1\OOAD_Phương pháp Phát triển phần mềm hướng đối tượng_SE100.M12.PMCL\Project\DAL\obj\Debug\DAL.pdb
+D:\Docs\Y3S1\OOAD_Phương pháp Phát triển phần mềm hướng đối tượng_SE100.M12.PMCL\BankingCard Processer\DAL\bin\Debug\DAL.dll
+D:\Docs\Y3S1\OOAD_Phương pháp Phát triển phần mềm hướng đối tượng_SE100.M12.PMCL\BankingCard Processer\DAL\bin\Debug\DAL.pdb
+D:\Docs\Y3S1\OOAD_Phương pháp Phát triển phần mềm hướng đối tượng_SE100.M12.PMCL\BankingCard Processer\DAL\bin\Debug\DTO.dll
+D:\Docs\Y3S1\OOAD_Phương pháp Phát triển phần mềm hướng đối tượng_SE100.M12.PMCL\BankingCard Processer\DAL\bin\Debug\DTO.pdb
+D:\Docs\Y3S1\OOAD_Phương pháp Phát triển phần mềm hướng đối tượng_SE100.M12.PMCL\BankingCard Processer\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+D:\Docs\Y3S1\OOAD_Phương pháp Phát triển phần mềm hướng đối tượng_SE100.M12.PMCL\BankingCard Processer\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\Docs\Y3S1\OOAD_Phương pháp Phát triển phần mềm hướng đối tượng_SE100.M12.PMCL\BankingCard Processer\DAL\obj\Debug\DAL.csproj.CopyComplete
+D:\Docs\Y3S1\OOAD_Phương pháp Phát triển phần mềm hướng đối tượng_SE100.M12.PMCL\BankingCard Processer\DAL\obj\Debug\DAL.dll
+D:\Docs\Y3S1\OOAD_Phương pháp Phát triển phần mềm hướng đối tượng_SE100.M12.PMCL\BankingCard Processer\DAL\obj\Debug\DAL.pdb

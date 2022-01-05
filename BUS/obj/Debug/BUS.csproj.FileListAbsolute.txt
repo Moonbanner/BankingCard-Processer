@@ -20,3 +20,14 @@ D:\Docs\Y3S1\OOAD_Phương pháp Phát triển phần mềm hướng đối tư�
 D:\Docs\Y3S1\OOAD_Phương pháp Phát triển phần mềm hướng đối tượng_SE100.M12.PMCL\Project\BUS\obj\Debug\BUS.csproj.CopyComplete
 D:\Docs\Y3S1\OOAD_Phương pháp Phát triển phần mềm hướng đối tượng_SE100.M12.PMCL\Project\BUS\obj\Debug\BUS.dll
 D:\Docs\Y3S1\OOAD_Phương pháp Phát triển phần mềm hướng đối tượng_SE100.M12.PMCL\Project\BUS\obj\Debug\BUS.pdb
+D:\Docs\Y3S1\OOAD_Phương pháp Phát triển phần mềm hướng đối tượng_SE100.M12.PMCL\BankingCard Processer\BUS\bin\Debug\BUS.dll
+D:\Docs\Y3S1\OOAD_Phương pháp Phát triển phần mềm hướng đối tượng_SE100.M12.PMCL\BankingCard Processer\BUS\bin\Debug\BUS.pdb
+D:\Docs\Y3S1\OOAD_Phương pháp Phát triển phần mềm hướng đối tượng_SE100.M12.PMCL\BankingCard Processer\BUS\bin\Debug\DAL.dll
+D:\Docs\Y3S1\OOAD_Phương pháp Phát triển phần mềm hướng đối tượng_SE100.M12.PMCL\BankingCard Processer\BUS\bin\Debug\DTO.dll
+D:\Docs\Y3S1\OOAD_Phương pháp Phát triển phần mềm hướng đối tượng_SE100.M12.PMCL\BankingCard Processer\BUS\bin\Debug\DAL.pdb
+D:\Docs\Y3S1\OOAD_Phương pháp Phát triển phần mềm hướng đối tượng_SE100.M12.PMCL\BankingCard Processer\BUS\bin\Debug\DTO.pdb
+D:\Docs\Y3S1\OOAD_Phương pháp Phát triển phần mềm hướng đối tượng_SE100.M12.PMCL\BankingCard Processer\BUS\obj\Debug\BUS.csproj.AssemblyReference.cache
+D:\Docs\Y3S1\OOAD_Phương pháp Phát triển phần mềm hướng đối tượng_SE100.M12.PMCL\BankingCard Processer\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+D:\Docs\Y3S1\OOAD_Phương pháp Phát triển phần mềm hướng đối tượng_SE100.M12.PMCL\BankingCard Processer\BUS\obj\Debug\BUS.csproj.CopyComplete
+D:\Docs\Y3S1\OOAD_Phương pháp Phát triển phần mềm hướng đối tượng_SE100.M12.PMCL\BankingCard Processer\BUS\obj\Debug\BUS.dll
+D:\Docs\Y3S1\OOAD_Phương pháp Phát triển phần mềm hướng đối tượng_SE100.M12.PMCL\BankingCard Processer\BUS\obj\Debug\BUS.pdb

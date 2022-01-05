@@ -62,10 +62,11 @@ namespace BankingCard_Processer
             | System.Windows.Forms.AnchorStyles.Left) 
             | System.Windows.Forms.AnchorStyles.Right)));
             this.label1.AutoSize = true;
-            this.label1.ForeColor = System.Drawing.Color.White;
-            this.label1.Location = new System.Drawing.Point(45, 36);
+            this.label1.Font = new System.Drawing.Font("Segoe UI", 12.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
+            this.label1.ForeColor = System.Drawing.Color.DarkBlue;
+            this.label1.Location = new System.Drawing.Point(45, 47);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(134, 32);
+            this.label1.Size = new System.Drawing.Size(97, 23);
             this.label1.TabIndex = 0;
             this.label1.Text = "Credit Card";
             // 
@@ -75,10 +76,11 @@ namespace BankingCard_Processer
             | System.Windows.Forms.AnchorStyles.Left) 
             | System.Windows.Forms.AnchorStyles.Right)));
             this.label2.AutoSize = true;
-            this.label2.ForeColor = System.Drawing.Color.White;
-            this.label2.Location = new System.Drawing.Point(45, 89);
+            this.label2.Font = new System.Drawing.Font("Segoe UI", 12.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
+            this.label2.ForeColor = System.Drawing.Color.DarkBlue;
+            this.label2.Location = new System.Drawing.Point(45, 100);
             this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(142, 32);
+            this.label2.Size = new System.Drawing.Size(102, 23);
             this.label2.TabIndex = 1;
             this.label2.Text = "Card Holder";
             // 
@@ -88,10 +90,11 @@ namespace BankingCard_Processer
             | System.Windows.Forms.AnchorStyles.Left) 
             | System.Windows.Forms.AnchorStyles.Right)));
             this.label3.AutoSize = true;
-            this.label3.ForeColor = System.Drawing.Color.White;
-            this.label3.Location = new System.Drawing.Point(45, 143);
+            this.label3.Font = new System.Drawing.Font("Segoe UI", 12.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
+            this.label3.ForeColor = System.Drawing.Color.DarkBlue;
+            this.label3.Location = new System.Drawing.Point(45, 154);
             this.label3.Name = "label3";
-            this.label3.Size = new System.Drawing.Size(96, 32);
+            this.label3.Size = new System.Drawing.Size(69, 23);
             this.label3.TabIndex = 2;
             this.label3.Text = "Balance";
             // 
@@ -102,11 +105,12 @@ namespace BankingCard_Processer
             | System.Windows.Forms.AnchorStyles.Right)));
             this.tbxCardID.BackColor = System.Drawing.Color.DarkSeaGreen;
             this.tbxCardID.BorderStyle = System.Windows.Forms.BorderStyle.None;
+            this.tbxCardID.Font = new System.Drawing.Font("Segoe UI", 12.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
             this.tbxCardID.ForeColor = System.Drawing.Color.White;
-            this.tbxCardID.Location = new System.Drawing.Point(231, 36);
+            this.tbxCardID.Location = new System.Drawing.Point(231, 47);
             this.tbxCardID.Name = "tbxCardID";
             this.tbxCardID.ReadOnly = true;
-            this.tbxCardID.Size = new System.Drawing.Size(570, 32);
+            this.tbxCardID.Size = new System.Drawing.Size(570, 23);
             this.tbxCardID.TabIndex = 3;
             this.tbxCardID.Text = "4815093857461";
             // 
@@ -117,11 +121,12 @@ namespace BankingCard_Processer
             | System.Windows.Forms.AnchorStyles.Right)));
             this.tbxCardHolder.BackColor = System.Drawing.Color.DarkSeaGreen;
             this.tbxCardHolder.BorderStyle = System.Windows.Forms.BorderStyle.None;
+            this.tbxCardHolder.Font = new System.Drawing.Font("Segoe UI", 12.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
             this.tbxCardHolder.ForeColor = System.Drawing.Color.White;
-            this.tbxCardHolder.Location = new System.Drawing.Point(231, 89);
+            this.tbxCardHolder.Location = new System.Drawing.Point(231, 100);
             this.tbxCardHolder.Name = "tbxCardHolder";
             this.tbxCardHolder.ReadOnly = true;
-            this.tbxCardHolder.Size = new System.Drawing.Size(570, 32);
+            this.tbxCardHolder.Size = new System.Drawing.Size(570, 23);
             this.tbxCardHolder.TabIndex = 4;
             this.tbxCardHolder.Text = "Nguyễn Quốc Trung";
             // 
@@ -132,11 +137,12 @@ namespace BankingCard_Processer
             | System.Windows.Forms.AnchorStyles.Right)));
             this.tbxBalance.BackColor = System.Drawing.Color.DarkSeaGreen;
             this.tbxBalance.BorderStyle = System.Windows.Forms.BorderStyle.None;
+            this.tbxBalance.Font = new System.Drawing.Font("Segoe UI", 12.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
             this.tbxBalance.ForeColor = System.Drawing.Color.White;
-            this.tbxBalance.Location = new System.Drawing.Point(231, 143);
+            this.tbxBalance.Location = new System.Drawing.Point(231, 154);
             this.tbxBalance.Name = "tbxBalance";
             this.tbxBalance.ReadOnly = true;
-            this.tbxBalance.Size = new System.Drawing.Size(570, 32);
+            this.tbxBalance.Size = new System.Drawing.Size(570, 23);
             this.tbxBalance.TabIndex = 5;
             this.tbxBalance.Text = "10,000,000";
             // 
@@ -177,7 +183,7 @@ namespace BankingCard_Processer
             this.label4.ForeColor = System.Drawing.Color.Gainsboro;
             this.label4.Location = new System.Drawing.Point(12, 9);
             this.label4.Name = "label4";
-            this.label4.Size = new System.Drawing.Size(192, 28);
+            this.label4.Size = new System.Drawing.Size(135, 19);
             this.label4.TabIndex = 9;
             this.label4.Text = "Account Information";
             // 
@@ -192,7 +198,7 @@ namespace BankingCard_Processer
             this.textBox1.Location = new System.Drawing.Point(435, 143);
             this.textBox1.Name = "textBox1";
             this.textBox1.ReadOnly = true;
-            this.textBox1.Size = new System.Drawing.Size(86, 32);
+            this.textBox1.Size = new System.Drawing.Size(86, 22);
             this.textBox1.TabIndex = 10;
             this.textBox1.Text = "VNĐ";
             // 
@@ -254,7 +260,7 @@ namespace BankingCard_Processer
             this.gdColumn_ngay.MinimumWidth = 8;
             this.gdColumn_ngay.Name = "gdColumn_ngay";
             this.gdColumn_ngay.ReadOnly = true;
-            this.gdColumn_ngay.Width = 211;
+            this.gdColumn_ngay.Width = 139;
             // 
             // gdColumn_ma
             // 
@@ -265,7 +271,6 @@ namespace BankingCard_Processer
             this.gdColumn_ma.Name = "gdColumn_ma";
             this.gdColumn_ma.ReadOnly = true;
             this.gdColumn_ma.Visible = false;
-            this.gdColumn_ma.Width = 150;
             // 
             // gdColumn_loai
             // 
@@ -275,7 +280,7 @@ namespace BankingCard_Processer
             this.gdColumn_loai.MinimumWidth = 8;
             this.gdColumn_loai.Name = "gdColumn_loai";
             this.gdColumn_loai.ReadOnly = true;
-            this.gdColumn_loai.Width = 93;
+            this.gdColumn_loai.Width = 64;
             // 
             // gdColumn_sotien
             // 
@@ -326,7 +331,7 @@ namespace BankingCard_Processer
             // 
             // formAccount
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(13F, 32F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(9F, 21F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.DarkSeaGreen;
             this.ClientSize = new System.Drawing.Size(962, 673);

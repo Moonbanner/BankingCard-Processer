@@ -43,10 +43,11 @@ namespace BankingCard_Processer
 
         private void formLogin_FormClosed(object sender, FormClosedEventArgs e)
         {
-            if (MessageBox.Show("Do you want to close the app?", "Alert!", MessageBoxButtons.YesNo) == DialogResult.Yes)
-            {
-                Application.Exit();
-            }
+        }
+
+        private void btnClose_Click(object sender, EventArgs e)
+        {
+            Application.Exit();
         }
     }
 }

@@ -510,11 +510,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Docs\\Y3S1\\OOAD_Phương pháp Phát triển phần mềm hướng đối tượng_SE100.M12.PMCL\\Project\\BankingCard-Processer-main\\GUI.csproj",
+      "projectUniqueName": "D:\\Docs\\Y3S1\\OOAD_Phương pháp Phát triển phần mềm hướng đối tượng_SE100.M12.PMCL\\BankingCard Processer\\BankingCard-Processer-main\\GUI.csproj",
       "projectName": "GUI",
-      "projectPath": "D:\\Docs\\Y3S1\\OOAD_Phương pháp Phát triển phần mềm hướng đối tượng_SE100.M12.PMCL\\Project\\BankingCard-Processer-main\\GUI.csproj",
+      "projectPath": "D:\\Docs\\Y3S1\\OOAD_Phương pháp Phát triển phần mềm hướng đối tượng_SE100.M12.PMCL\\BankingCard Processer\\BankingCard-Processer-main\\GUI.csproj",
       "packagesPath": "C:\\Users\\MoonMoon\\.nuget\\packages\\",
-      "outputPath": "D:\\Docs\\Y3S1\\OOAD_Phương pháp Phát triển phần mềm hướng đối tượng_SE100.M12.PMCL\\Project\\BankingCard-Processer-main\\obj\\",
+      "outputPath": "D:\\Docs\\Y3S1\\OOAD_Phương pháp Phát triển phần mềm hướng đối tượng_SE100.M12.PMCL\\BankingCard Processer\\BankingCard-Processer-main\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\MoonMoon\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -531,11 +531,11 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "D:\\Docs\\Y3S1\\OOAD_Phương pháp Phát triển phần mềm hướng đối tượng_SE100.M12.PMCL\\Project\\BUS\\BUS.csproj": {
-              "projectPath": "D:\\Docs\\Y3S1\\OOAD_Phương pháp Phát triển phần mềm hướng đối tượng_SE100.M12.PMCL\\Project\\BUS\\BUS.csproj"
+            "D:\\Docs\\Y3S1\\OOAD_Phương pháp Phát triển phần mềm hướng đối tượng_SE100.M12.PMCL\\BankingCard Processer\\BUS\\BUS.csproj": {
+              "projectPath": "D:\\Docs\\Y3S1\\OOAD_Phương pháp Phát triển phần mềm hướng đối tượng_SE100.M12.PMCL\\BankingCard Processer\\BUS\\BUS.csproj"
             },
-            "D:\\Docs\\Y3S1\\OOAD_Phương pháp Phát triển phần mềm hướng đối tượng_SE100.M12.PMCL\\Project\\DAL\\DAL.csproj": {
-              "projectPath": "D:\\Docs\\Y3S1\\OOAD_Phương pháp Phát triển phần mềm hướng đối tượng_SE100.M12.PMCL\\Project\\DAL\\DAL.csproj"
+            "D:\\Docs\\Y3S1\\OOAD_Phương pháp Phát triển phần mềm hướng đối tượng_SE100.M12.PMCL\\BankingCard Processer\\DAL\\DAL.csproj": {
+              "projectPath": "D:\\Docs\\Y3S1\\OOAD_Phương pháp Phát triển phần mềm hướng đối tượng_SE100.M12.PMCL\\BankingCard Processer\\DAL\\DAL.csproj"
             }
           }
         }
