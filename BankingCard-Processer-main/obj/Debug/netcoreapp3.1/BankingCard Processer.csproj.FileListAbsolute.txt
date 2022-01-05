@@ -1,0 +1,48 @@
+D:\Docs\Y3S1\OOAD_Phương pháp Phát triển phần mềm hướng đối tượng_SE100.M12.PMCL\BankingCard Processer\obj\Debug\netcoreapp3.1\BankingCard Processer.csproj.AssemblyReference.cache
+D:\Docs\Y3S1\OOAD_Phương pháp Phát triển phần mềm hướng đối tượng_SE100.M12.PMCL\BankingCard Processer\obj\Debug\netcoreapp3.1\BankingCard_Processer.login_form.resources
+D:\Docs\Y3S1\OOAD_Phương pháp Phát triển phần mềm hướng đối tượng_SE100.M12.PMCL\BankingCard Processer\obj\Debug\netcoreapp3.1\BankingCard Processer.csproj.GenerateResource.cache
+D:\Docs\Y3S1\OOAD_Phương pháp Phát triển phần mềm hướng đối tượng_SE100.M12.PMCL\BankingCard Processer\obj\Debug\netcoreapp3.1\BankingCard Processer.GeneratedMSBuildEditorConfig.editorconfig
+D:\Docs\Y3S1\OOAD_Phương pháp Phát triển phần mềm hướng đối tượng_SE100.M12.PMCL\BankingCard Processer\obj\Debug\netcoreapp3.1\BankingCard Processer.AssemblyInfoInputs.cache
+D:\Docs\Y3S1\OOAD_Phương pháp Phát triển phần mềm hướng đối tượng_SE100.M12.PMCL\BankingCard Processer\obj\Debug\netcoreapp3.1\BankingCard Processer.AssemblyInfo.cs
+D:\Docs\Y3S1\OOAD_Phương pháp Phát triển phần mềm hướng đối tượng_SE100.M12.PMCL\BankingCard Processer\obj\Debug\netcoreapp3.1\BankingCard Processer.csproj.CoreCompileInputs.cache
+D:\Docs\Y3S1\OOAD_Phương pháp Phát triển phần mềm hướng đối tượng_SE100.M12.PMCL\BankingCard Processer\bin\Debug\netcoreapp3.1\BankingCard Processer.exe
+D:\Docs\Y3S1\OOAD_Phương pháp Phát triển phần mềm hướng đối tượng_SE100.M12.PMCL\BankingCard Processer\bin\Debug\netcoreapp3.1\BankingCard Processer.deps.json
+D:\Docs\Y3S1\OOAD_Phương pháp Phát triển phần mềm hướng đối tượng_SE100.M12.PMCL\BankingCard Processer\bin\Debug\netcoreapp3.1\BankingCard Processer.runtimeconfig.json
+D:\Docs\Y3S1\OOAD_Phương pháp Phát triển phần mềm hướng đối tượng_SE100.M12.PMCL\BankingCard Processer\bin\Debug\netcoreapp3.1\BankingCard Processer.runtimeconfig.dev.json
+D:\Docs\Y3S1\OOAD_Phương pháp Phát triển phần mềm hướng đối tượng_SE100.M12.PMCL\BankingCard Processer\bin\Debug\netcoreapp3.1\BankingCard Processer.dll
+D:\Docs\Y3S1\OOAD_Phương pháp Phát triển phần mềm hướng đối tượng_SE100.M12.PMCL\BankingCard Processer\bin\Debug\netcoreapp3.1\BankingCard Processer.pdb
+D:\Docs\Y3S1\OOAD_Phương pháp Phát triển phần mềm hướng đối tượng_SE100.M12.PMCL\BankingCard Processer\obj\Debug\netcoreapp3.1\BankingCard Processer.dll
+D:\Docs\Y3S1\OOAD_Phương pháp Phát triển phần mềm hướng đối tượng_SE100.M12.PMCL\BankingCard Processer\obj\Debug\netcoreapp3.1\BankingCard Processer.pdb
+D:\Docs\Y3S1\OOAD_Phương pháp Phát triển phần mềm hướng đối tượng_SE100.M12.PMCL\BankingCard Processer\obj\Debug\netcoreapp3.1\BankingCard Processer.genruntimeconfig.cache
+D:\Docs\Y3S1\OOAD_Phương pháp Phát triển phần mềm hướng đối tượng_SE100.M12.PMCL\BankingCard Processer\obj\Debug\netcoreapp3.1\BankingCard_Processer.formMainScreen.resources
+D:\Docs\Y3S1\OOAD_Phương pháp Phát triển phần mềm hướng đối tượng_SE100.M12.PMCL\BankingCard Processer\obj\Debug\netcoreapp3.1\BankingCard_Processer.formAccount.resources
+D:\Docs\Y3S1\OOAD_Phương pháp Phát triển phần mềm hướng đối tượng_SE100.M12.PMCL\BankingCard Processer\obj\Debug\netcoreapp3.1\BankingCard_Processer.Properties.Resources.resources
+D:\Docs\Y3S1\OOAD_Phương pháp Phát triển phần mềm hướng đối tượng_SE100.M12.PMCL\BankingCard Processer\obj\Debug\netcoreapp3.1\BankingCard_Processer.formTransfer.resources
+D:\Docs\Y3S1\OOAD_Phương pháp Phát triển phần mềm hướng đối tượng_SE100.M12.PMCL\BankingCard Processer\obj\Debug\netcoreapp3.1\BankingCard_Processer.formServicePayment.resources
+D:\Docs\Y3S1\OOAD_Phương pháp Phát triển phần mềm hướng đối tượng_SE100.M12.PMCL\BankingCard Processer\obj\Debug\netcoreapp3.1\BankingCard_Processer.formPOSPayment.resources
+D:\Docs\Y3S1\OOAD_Phương pháp Phát triển phần mềm hướng đối tượng_SE100.M12.PMCL\BankingCard Processer\obj\Debug\netcoreapp3.1\BankingCard_Processer.formDeposit.resources
+D:\Docs\Y3S1\OOAD_Phương pháp Phát triển phần mềm hướng đối tượng_SE100.M12.PMCL\BankingCard Processer\obj\Debug\netcoreapp3.1\BankingCard_Processer.formWithdraw.resources
+D:\Trung\Study\TaiLieu\HKV\SE100\DoAn\BankingCard-Processer-main\bin\Debug\netcoreapp3.1\BankingCard Processer.exe
+D:\Trung\Study\TaiLieu\HKV\SE100\DoAn\BankingCard-Processer-main\bin\Debug\netcoreapp3.1\BankingCard Processer.deps.json
+D:\Trung\Study\TaiLieu\HKV\SE100\DoAn\BankingCard-Processer-main\bin\Debug\netcoreapp3.1\BankingCard Processer.runtimeconfig.json
+D:\Trung\Study\TaiLieu\HKV\SE100\DoAn\BankingCard-Processer-main\bin\Debug\netcoreapp3.1\BankingCard Processer.runtimeconfig.dev.json
+D:\Trung\Study\TaiLieu\HKV\SE100\DoAn\BankingCard-Processer-main\bin\Debug\netcoreapp3.1\BankingCard Processer.dll
+D:\Trung\Study\TaiLieu\HKV\SE100\DoAn\BankingCard-Processer-main\bin\Debug\netcoreapp3.1\BankingCard Processer.pdb
+D:\Trung\Study\TaiLieu\HKV\SE100\DoAn\BankingCard-Processer-main\obj\Debug\netcoreapp3.1\BankingCard Processer.csproj.AssemblyReference.cache
+D:\Trung\Study\TaiLieu\HKV\SE100\DoAn\BankingCard-Processer-main\obj\Debug\netcoreapp3.1\BankingCard_Processer.formAccount.resources
+D:\Trung\Study\TaiLieu\HKV\SE100\DoAn\BankingCard-Processer-main\obj\Debug\netcoreapp3.1\BankingCard_Processer.formDeposit.resources
+D:\Trung\Study\TaiLieu\HKV\SE100\DoAn\BankingCard-Processer-main\obj\Debug\netcoreapp3.1\BankingCard_Processer.formMainScreen.resources
+D:\Trung\Study\TaiLieu\HKV\SE100\DoAn\BankingCard-Processer-main\obj\Debug\netcoreapp3.1\BankingCard_Processer.formPOSPayment.resources
+D:\Trung\Study\TaiLieu\HKV\SE100\DoAn\BankingCard-Processer-main\obj\Debug\netcoreapp3.1\BankingCard_Processer.formServicePayment.resources
+D:\Trung\Study\TaiLieu\HKV\SE100\DoAn\BankingCard-Processer-main\obj\Debug\netcoreapp3.1\BankingCard_Processer.formTransfer.resources
+D:\Trung\Study\TaiLieu\HKV\SE100\DoAn\BankingCard-Processer-main\obj\Debug\netcoreapp3.1\BankingCard_Processer.formWithdraw.resources
+D:\Trung\Study\TaiLieu\HKV\SE100\DoAn\BankingCard-Processer-main\obj\Debug\netcoreapp3.1\BankingCard_Processer.login_form.resources
+D:\Trung\Study\TaiLieu\HKV\SE100\DoAn\BankingCard-Processer-main\obj\Debug\netcoreapp3.1\BankingCard_Processer.Properties.Resources.resources
+D:\Trung\Study\TaiLieu\HKV\SE100\DoAn\BankingCard-Processer-main\obj\Debug\netcoreapp3.1\BankingCard Processer.csproj.GenerateResource.cache
+D:\Trung\Study\TaiLieu\HKV\SE100\DoAn\BankingCard-Processer-main\obj\Debug\netcoreapp3.1\BankingCard Processer.GeneratedMSBuildEditorConfig.editorconfig
+D:\Trung\Study\TaiLieu\HKV\SE100\DoAn\BankingCard-Processer-main\obj\Debug\netcoreapp3.1\BankingCard Processer.AssemblyInfoInputs.cache
+D:\Trung\Study\TaiLieu\HKV\SE100\DoAn\BankingCard-Processer-main\obj\Debug\netcoreapp3.1\BankingCard Processer.AssemblyInfo.cs
+D:\Trung\Study\TaiLieu\HKV\SE100\DoAn\BankingCard-Processer-main\obj\Debug\netcoreapp3.1\BankingCard Processer.csproj.CoreCompileInputs.cache
+D:\Trung\Study\TaiLieu\HKV\SE100\DoAn\BankingCard-Processer-main\obj\Debug\netcoreapp3.1\BankingCard Processer.dll
+D:\Trung\Study\TaiLieu\HKV\SE100\DoAn\BankingCard-Processer-main\obj\Debug\netcoreapp3.1\BankingCard Processer.pdb
+D:\Trung\Study\TaiLieu\HKV\SE100\DoAn\BankingCard-Processer-main\obj\Debug\netcoreapp3.1\BankingCard Processer.genruntimeconfig.cache

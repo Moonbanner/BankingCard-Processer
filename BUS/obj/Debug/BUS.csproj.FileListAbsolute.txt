@@ -1,0 +1,22 @@
+D:\Trung\Study\TaiLieu\HKV\SE100\DoAn\BUS\bin\Debug\BUS.dll
+D:\Trung\Study\TaiLieu\HKV\SE100\DoAn\BUS\bin\Debug\BUS.pdb
+D:\Trung\Study\TaiLieu\HKV\SE100\DoAn\BUS\bin\Debug\DAL.dll
+D:\Trung\Study\TaiLieu\HKV\SE100\DoAn\BUS\bin\Debug\DTO.dll
+D:\Trung\Study\TaiLieu\HKV\SE100\DoAn\BUS\bin\Debug\DAL.pdb
+D:\Trung\Study\TaiLieu\HKV\SE100\DoAn\BUS\bin\Debug\DTO.pdb
+D:\Trung\Study\TaiLieu\HKV\SE100\DoAn\BUS\obj\Debug\BUS.csproj.AssemblyReference.cache
+D:\Trung\Study\TaiLieu\HKV\SE100\DoAn\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+D:\Trung\Study\TaiLieu\HKV\SE100\DoAn\BUS\obj\Debug\BUS.csproj.CopyComplete
+D:\Trung\Study\TaiLieu\HKV\SE100\DoAn\BUS\obj\Debug\BUS.dll
+D:\Trung\Study\TaiLieu\HKV\SE100\DoAn\BUS\obj\Debug\BUS.pdb
+D:\Docs\Y3S1\OOAD_Phương pháp Phát triển phần mềm hướng đối tượng_SE100.M12.PMCL\Project\BUS\bin\Debug\BUS.dll
+D:\Docs\Y3S1\OOAD_Phương pháp Phát triển phần mềm hướng đối tượng_SE100.M12.PMCL\Project\BUS\bin\Debug\BUS.pdb
+D:\Docs\Y3S1\OOAD_Phương pháp Phát triển phần mềm hướng đối tượng_SE100.M12.PMCL\Project\BUS\bin\Debug\DAL.dll
+D:\Docs\Y3S1\OOAD_Phương pháp Phát triển phần mềm hướng đối tượng_SE100.M12.PMCL\Project\BUS\bin\Debug\DTO.dll
+D:\Docs\Y3S1\OOAD_Phương pháp Phát triển phần mềm hướng đối tượng_SE100.M12.PMCL\Project\BUS\bin\Debug\DAL.pdb
+D:\Docs\Y3S1\OOAD_Phương pháp Phát triển phần mềm hướng đối tượng_SE100.M12.PMCL\Project\BUS\bin\Debug\DTO.pdb
+D:\Docs\Y3S1\OOAD_Phương pháp Phát triển phần mềm hướng đối tượng_SE100.M12.PMCL\Project\BUS\obj\Debug\BUS.csproj.AssemblyReference.cache
+D:\Docs\Y3S1\OOAD_Phương pháp Phát triển phần mềm hướng đối tượng_SE100.M12.PMCL\Project\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+D:\Docs\Y3S1\OOAD_Phương pháp Phát triển phần mềm hướng đối tượng_SE100.M12.PMCL\Project\BUS\obj\Debug\BUS.csproj.CopyComplete
+D:\Docs\Y3S1\OOAD_Phương pháp Phát triển phần mềm hướng đối tượng_SE100.M12.PMCL\Project\BUS\obj\Debug\BUS.dll
+D:\Docs\Y3S1\OOAD_Phương pháp Phát triển phần mềm hướng đối tượng_SE100.M12.PMCL\Project\BUS\obj\Debug\BUS.pdb

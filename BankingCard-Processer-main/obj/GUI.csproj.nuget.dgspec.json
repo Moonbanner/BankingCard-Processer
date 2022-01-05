@@ -1,0 +1,129 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Docs\\Y3S1\\OOAD_Phương pháp Phát triển phần mềm hướng đối tượng_SE100.M12.PMCL\\Project\\BankingCard-Processer-main\\GUI.csproj": {}
+  },
+  "projects": {
+    "D:\\Docs\\Y3S1\\OOAD_Phương pháp Phát triển phần mềm hướng đối tượng_SE100.M12.PMCL\\Project\\BankingCard-Processer-main\\GUI.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Docs\\Y3S1\\OOAD_Phương pháp Phát triển phần mềm hướng đối tượng_SE100.M12.PMCL\\Project\\BankingCard-Processer-main\\GUI.csproj",
+        "projectName": "GUI",
+        "projectPath": "D:\\Docs\\Y3S1\\OOAD_Phương pháp Phát triển phần mềm hướng đối tượng_SE100.M12.PMCL\\Project\\BankingCard-Processer-main\\GUI.csproj",
+        "packagesPath": "C:\\Users\\MoonMoon\\.nuget\\packages\\",
+        "outputPath": "D:\\Docs\\Y3S1\\OOAD_Phương pháp Phát triển phần mềm hướng đối tượng_SE100.M12.PMCL\\Project\\BankingCard-Processer-main\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\MoonMoon\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "D:\\Docs\\Y3S1\\OOAD_Phương pháp Phát triển phần mềm hướng đối tượng_SE100.M12.PMCL\\Project\\BUS\\BUS.csproj": {
+                "projectPath": "D:\\Docs\\Y3S1\\OOAD_Phương pháp Phát triển phần mềm hướng đối tượng_SE100.M12.PMCL\\Project\\BUS\\BUS.csproj"
+              },
+              "D:\\Docs\\Y3S1\\OOAD_Phương pháp Phát triển phần mềm hướng đối tượng_SE100.M12.PMCL\\Project\\DAL\\DAL.csproj": {
+                "projectPath": "D:\\Docs\\Y3S1\\OOAD_Phương pháp Phát triển phần mềm hướng đối tượng_SE100.M12.PMCL\\Project\\DAL\\DAL.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.8.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WindowsForms": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.404\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Docs\\Y3S1\\OOAD_Phương pháp Phát triển phần mềm hướng đối tượng_SE100.M12.PMCL\\Project\\BUS\\BUS.csproj": {
+      "restore": {
+        "projectUniqueName": "D:\\Docs\\Y3S1\\OOAD_Phương pháp Phát triển phần mềm hướng đối tượng_SE100.M12.PMCL\\Project\\BUS\\BUS.csproj",
+        "projectName": "BUS",
+        "projectPath": "D:\\Docs\\Y3S1\\OOAD_Phương pháp Phát triển phần mềm hướng đối tượng_SE100.M12.PMCL\\Project\\BUS\\BUS.csproj",
+        "frameworks": {
+          "net472": {
+            "projectReferences": {
+              "D:\\Docs\\Y3S1\\OOAD_Phương pháp Phát triển phần mềm hướng đối tượng_SE100.M12.PMCL\\Project\\DAL\\DAL.csproj": {
+                "projectPath": "D:\\Docs\\Y3S1\\OOAD_Phương pháp Phát triển phần mềm hướng đối tượng_SE100.M12.PMCL\\Project\\DAL\\DAL.csproj"
+              },
+              "D:\\Docs\\Y3S1\\OOAD_Phương pháp Phát triển phần mềm hướng đối tượng_SE100.M12.PMCL\\Project\\DTO\\DTO.csproj": {
+                "projectPath": "D:\\Docs\\Y3S1\\OOAD_Phương pháp Phát triển phần mềm hướng đối tượng_SE100.M12.PMCL\\Project\\DTO\\DTO.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    },
+    "D:\\Docs\\Y3S1\\OOAD_Phương pháp Phát triển phần mềm hướng đối tượng_SE100.M12.PMCL\\Project\\DAL\\DAL.csproj": {
+      "restore": {
+        "projectUniqueName": "D:\\Docs\\Y3S1\\OOAD_Phương pháp Phát triển phần mềm hướng đối tượng_SE100.M12.PMCL\\Project\\DAL\\DAL.csproj",
+        "projectName": "DAL",
+        "projectPath": "D:\\Docs\\Y3S1\\OOAD_Phương pháp Phát triển phần mềm hướng đối tượng_SE100.M12.PMCL\\Project\\DAL\\DAL.csproj",
+        "frameworks": {
+          "net472": {
+            "projectReferences": {
+              "D:\\Docs\\Y3S1\\OOAD_Phương pháp Phát triển phần mềm hướng đối tượng_SE100.M12.PMCL\\Project\\DTO\\DTO.csproj": {
+                "projectPath": "D:\\Docs\\Y3S1\\OOAD_Phương pháp Phát triển phần mềm hướng đối tượng_SE100.M12.PMCL\\Project\\DTO\\DTO.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    },
+    "D:\\Docs\\Y3S1\\OOAD_Phương pháp Phát triển phần mềm hướng đối tượng_SE100.M12.PMCL\\Project\\DTO\\DTO.csproj": {
+      "restore": {
+        "projectUniqueName": "D:\\Docs\\Y3S1\\OOAD_Phương pháp Phát triển phần mềm hướng đối tượng_SE100.M12.PMCL\\Project\\DTO\\DTO.csproj",
+        "projectName": "DTO",
+        "projectPath": "D:\\Docs\\Y3S1\\OOAD_Phương pháp Phát triển phần mềm hướng đối tượng_SE100.M12.PMCL\\Project\\DTO\\DTO.csproj"
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    }
+  }
+}

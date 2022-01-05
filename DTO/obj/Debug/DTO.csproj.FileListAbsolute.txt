@@ -1,0 +1,6 @@
+D:\Trung\Study\TaiLieu\HKV\SE100\DoAn\DTO\bin\Debug\DTO.dll
+D:\Trung\Study\TaiLieu\HKV\SE100\DoAn\DTO\bin\Debug\DTO.pdb
+D:\Trung\Study\TaiLieu\HKV\SE100\DoAn\DTO\obj\Debug\DTO.csproj.AssemblyReference.cache
+D:\Trung\Study\TaiLieu\HKV\SE100\DoAn\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+D:\Trung\Study\TaiLieu\HKV\SE100\DoAn\DTO\obj\Debug\DTO.dll
+D:\Trung\Study\TaiLieu\HKV\SE100\DoAn\DTO\obj\Debug\DTO.pdb
