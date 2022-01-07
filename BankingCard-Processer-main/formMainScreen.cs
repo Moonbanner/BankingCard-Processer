@@ -103,9 +103,14 @@ namespace BankingCard_Processer
 
         private void btnLogout_Click(object sender, EventArgs e)
         {
-            this.Hide();
-            formLogin formLogin = new formLogin();
-            formLogin.ShowDialog();
+            DialogResult dialog = new DialogResult();
+            dialog = MessageBox.Show("Do you want to log out?", "Alert!", MessageBoxButtons.YesNo);
+            if (dialog == DialogResult.Yes)
+            {
+                this.Hide();
+                formLogin formLogin = new formLogin();
+                formLogin.ShowDialog();
+            }
         }
     }
 }

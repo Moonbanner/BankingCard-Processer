@@ -34,6 +34,26 @@ namespace DAL
             return false;
         }
 
+        public bool changePIN(string cardId, string newPIN)
+        {
+            connection.Open();
+            command = connection.CreateCommand();
+            command.CommandText = "update ThongTinCard set MaPin = @newPIN where CardId = @cardID";
+            command.Parameters.AddWithValue("@cardID", cardId);
+            command.Parameters.AddWithValue("@newPIN", newPIN);
+            try
+            {
+                command.ExecuteNonQuery();
+                connection.Close();
+                return true;
+            }
+            catch
+            {
+                connection.Close();
+                return false;
+            }
+        }
+
         public DataSet loadDataTTGD(string cardID)
         {
             connection.Open();

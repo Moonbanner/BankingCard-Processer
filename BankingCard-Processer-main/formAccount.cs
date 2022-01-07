@@ -52,7 +52,53 @@ namespace BankingCard_Processer
 
         private void btnReport_Click(object sender, EventArgs e)
         {
-            dataGridViewTTGD.Visible = true;
+            if (dataGridViewTTGD.Visible == false)
+            {
+                dataGridViewTTGD.Visible = true;
+                grbChangPIN.Visible = false;
+            }
+            else
+                dataGridViewTTGD.Visible = false;
+        }
+
+        private void btnChangePIN_Click(object sender, EventArgs e)
+        {
+            if (grbChangPIN.Visible == false)
+            {
+                txtCurrent.Text = "";
+                txtNew.Text = "";
+                txtRetype.Text = "";
+                grbChangPIN.Visible = true;
+                dataGridViewTTGD.Visible = false;
+            }
+            else
+                grbChangPIN.Visible = false;
+        }
+
+        private void btnSavePIN_Click(object sender, EventArgs e)
+        {
+            if (txtCurrent.Text == "" || txtNew.Text == "" || txtRetype.Text == "")
+            {
+                MessageBox.Show("Please type full");
+                return;
+            }
+            string current = txtCurrent.Text;
+            string newPIN = txtNew.Text;
+            string reType = txtRetype.Text;
+            if (bus_cardInfo.login(this.cardID, current))
+            {
+                if (newPIN == reType)
+                {
+                    if (bus_cardInfo.changePIN(this.cardID, newPIN))
+                        MessageBox.Show("Change PIN successfully");
+                    else
+                        MessageBox.Show("Please try again");
+                }
+                else
+                    MessageBox.Show("Passwords do not match");
+            }
+            else
+                MessageBox.Show("PIN current wrong");
         }
     }
 }

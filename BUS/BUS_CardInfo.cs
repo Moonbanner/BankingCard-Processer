@@ -26,5 +26,10 @@ namespace BUS
         {
             return dal_cardInfo.loadDataTTKH(cardID);
         } 
+
+        public bool changePIN(string cardId, string newPIN)
+        {
+            return dal_cardInfo.changePIN(cardId, newPIN);
+        }
     }
 }
